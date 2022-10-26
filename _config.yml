@@ -31,7 +31,7 @@ xing_username:
 pinterest_username:
 youtube_username
 orcid_username:
-googlescholar_username
+googlescholar_username:
 
 # Additional icon links
 additional_links:
@@ -61,15 +61,15 @@ about_content: | # this will include new lines to allow paragraphs
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects # Title for the section
+  - title: profile  # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: Hallym University
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        link_text: https://www.hallym.ac.kr/
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
