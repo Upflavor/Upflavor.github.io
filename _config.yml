@@ -39,19 +39,13 @@ instagram_username: gnasloey_b
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: https://ibb.co/r6bbhm0
+about_profile_image: ![KakaoTalk_20221027_032750956](https://user-images.githubusercontent.com/115774445/198115346-79eaf934-5c07-4baf-b9a4-48a6a41bd456.jpg)
 about_content: | # this will include new lines to allow paragraphs
  Hi! My name is SangYeol, My major is Bigdata, Department of Software.<br>
  I want to be a web developer So I chose this major. <br>
  It is very difficult to learn programming languages now, but it is so much fun that I am thinking of studying hard <br>
- Thank you so much for the opportunity to study!!!!
- 
+ Thank you so much for the opportunity to study!!!
 
- 
-  #  - Lists
-   # - Tables
-  #  - <a href="google.com">Links</a>
-  #  - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Project  # Title for the section
