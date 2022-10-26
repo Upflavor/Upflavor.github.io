@@ -45,9 +45,9 @@ about_content: | # this will include new lines to allow paragraphs
  I want to be a web developer So I chose this major. <br>
  It is very difficult to learn programming languages now, but it is so much fun that I am thinking of studying hard <br>
  Thank you so much for the opportunity to study!!!!
- # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+ 
 
- # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+ 
   #  - Lists
    # - Tables
   #  - <a href="google.com">Links</a>
